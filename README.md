@@ -1,5 +1,11 @@
 Maven Latest Version (3.8.6)
 ![image](https://user-images.githubusercontent.com/63435727/175575972-10fc0be0-9c04-4534-9f7d-4ff4b9bf4890.png)
+Selenium Latest Stable Version (4.2.2)
+![image](https://user-images.githubusercontent.com/63435727/175577139-f1eb1374-727e-464d-b6ae-65d3955e24ba.png)
+Cucumber Latest Stable Version (7.4.0)
+![image](https://user-images.githubusercontent.com/63435727/175577010-64185b9e-fa02-41c7-b136-42f2d22ec42c.png)
 Dependancies Added ( Selenium + Cucumber )
 ![image](https://user-images.githubusercontent.com/63435727/175576614-9365461d-f7d0-4023-8aba-8deff2e73ba1.png)
+Installed Plugins (Maven / Cucumber / Gherkin)
+![image](https://user-images.githubusercontent.com/63435727/175577351-4314cb28-35a5-4e87-bf49-e64448298a08.png)
 
